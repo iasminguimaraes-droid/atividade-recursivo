@@ -9,6 +9,6 @@ int fatorial(int n) {
 }
 
 int main() {
-    printf("%d\n", fatorial(4)); // Saída: 24
+    printf("%d\n", fatorial(4));
     return 0;
 }
